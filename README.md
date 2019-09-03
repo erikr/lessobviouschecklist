@@ -82,6 +82,10 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - If your conference is a recurring event, try avoiding to put date and year-specific marks on roll-ups banners etc. that might be reused for subsequent events.
 - Recommend local green transportation: How to go by bike, get public transport etc.
 
+There are many background resources on the environmental footprint of conferences, for instance:
+
+* [A breakdown of Wikimania's 2019 Carbon offsets](https://wikimania.wikimedia.org/wiki/2019:Carbon_offsetting), listing air travel as >80% of the conference's footprint.
+
 ## Making attendees feel at home
 
 - In general, use all your communication to make attendees feel welcome. At Django Under The Hood, we had posters with “Yay, you made it!” on all the entrances. Even [minor touches like that](https://twitter.com/Rachell_Calhoun/status/715091619607871488) can help create a good atmosphere at your conference.
