@@ -15,6 +15,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 * [Inclusivity](#inclusivity)
 * [Accessibility](#accessibility)
 * [Code of conduct](#code-of-conduct)
+* [Footprint](#footprint)
 * [Making attendees feel at home](#making-attendees-feel-at-home)
 * [Children](#children)
 * [Speakers](#speakers)
@@ -68,6 +69,18 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Gener
 - Do not underestimate the energy it will take from the CARE team to deal with issues. [Ola Sendecka wrote about this](http://blog.sendecka.me/post/142478065688/djangocon-empathy-duty) for DjangoCon Europe 2016.
 - Never assume you don’t need a CoC because nobody reported any issues, and therefore you don’t need one. As Ola notes, it takes time for people to feel comfortable to report issues. And not having a CoC at all is sending a very strong message to everyone that reporting isn’t worthwhile. It doesn't mean people won't experience issues - it just means they won't tell you. They're likely to tell their friends though.
 - For more about CoC enforcement, see this [overview of CoC warning signs](https://otter.technology/blog/2017/12/28/code-of-conduct-enforcement-warning-signs/) by Sage Sharp.
+
+## Footprint
+
+- Announce alternatives to flying early: People may book cheap plane tickets right away when your conference dates are announced.
+- Inspire people to alternatives to flying: For example, [a nice guide to train travel](https://blog.rustfest.eu/pre-post-conf-events-sustainable-train-travels), a coordinated online space for ride sharing or a small discount for non-flying travellers.
+- Tell your venue that you care about the environment and ask them what they can offer.
+- You can reduce waste, even be zero waste: Ask your venue to accommodate durable and reusable food containers: Porcelain, glass, metal etc.
+- Serve locally sourced, organic food. Your guests might enjoy both the cultural experience of local food, as well as organic and healthy food.
+- If using disposable food containers, go for biodegradable. Provide people easy options to tag their cups to drink from the same cup all day. But never compromise reuse with hygiene.
+- Make merchandise optional. If possible, hire someone to do print-on-demand merchandise or coordinate pre-ordering of conference merchandise.
+- If your conference is a recurring event, try avoiding to put date and year-specific marks on roll-ups banners etc. that might be reused for subsequent events.
+- Recommend local green transportation: How to go by bike, get public transport etc.
 
 ## Making attendees feel at home
 
